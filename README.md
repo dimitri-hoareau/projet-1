@@ -1,1 +1,1 @@
-# projet-1
+# jeu des bâtonnets
