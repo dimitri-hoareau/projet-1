@@ -41,12 +41,10 @@
     border-radius: 5px;
 } 
 
-/* retirer des bâtonnets */
-/* #rod_1 {
-    display: none;
-} */
-
-
+.computer_message {
+    padding-top: 2em;
+    font-size: 3em;
+}
 
 
 
